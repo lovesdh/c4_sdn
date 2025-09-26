@@ -1,0 +1,59 @@
+version: "3"
+
+services:
+  mininet:
+    image: tdockglimmer/mininet:6.2
+    # image: opennetworking/ngsdn-tutorial:stratum_bmv2
+    hostname: mininet
+    container_name: mininet
+    privileged: true
+    tty: true
+    stdin_open: true
+    restart: always
+    volumes:
+      - ./tmp:/tmp
+      - ./mininet:/mininet
+      # - /tmp/.X11-unix:/tmp/.X11-unix 
+      # - /lib/modules:/lib/modules 
+    ports:
+      - "50001:50001"
+      - "50002:50002"
+      - "50003:50003"
+      - "50004:50004"
+      - "50005:50005"
+      - "50006:50006"
+      - "50007:50007"
+      - "50008:50008"
+    # NGSDN_TOPO_PY is a Python-based Mininet script defining the topology. Its
+    # value is passed to docker-compose as an environment variable, defined in
+    # the Makefile.
+    entrypoint: "/mininet/${NGSDN_TOPO_PY}"
+  onos:
+    image: onosproject/onos:2.2.2
+    hostname: onos 
+    container_name: onos
+    ports:
+      - "8181:8181" # HTTP
+      - "8101:8101" # SSH (CLI)
+      # - "6633:6633" # controller
+    volumes:
+      - ./tmp/onos:/root/onos/apache-karaf-4.2.8/data/tmp
+    environment:
+      - ONOS_APPS=gui2,drivers.bmv2,lldpprovider,hostprovider
+    links:
+      - mininet
+# networks:
+#   my_network:
+#     driver: bridge
+#     ipam:
+#       driver: default
+#       config:
+#         - subnet: 172.16.238.0/24  # IPv4 子网
+#   my_network_v6:
+#     driver: bridge
+#     enable_ipv6: true
+#     ipam:
+#       driver: default
+#       config:
+#         - subnet: 2001:db8::/64  # IPv6 子网
+
