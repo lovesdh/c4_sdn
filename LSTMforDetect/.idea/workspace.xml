@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11ac3434-e16f-480f-a8e4-f04b61e65270" name="更改" comment="5.28版(终版的初版)">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/ddos_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject3/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddos_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/ddos_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/realtime_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/realtime_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RET-CLIP" beforeDir="false" afterPath="$PROJECT_DIR$/../RET-CLIP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/X_test.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/X_test.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/X_train.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/X_train.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/scaler.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/scaler.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/y_test.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/y_test.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/y_train.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/preprocessed_data/y_train.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/processed_data/cicids_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/processed_data/cicids_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/processed_data/cicids_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/processed_data/cicids_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/results/metrics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/results/metrics.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/results/model/autoencoder.pth" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/results/model/autoencoder.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/results/model/svm_classifier.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/results/model/svm_classifier.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/results/roc_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/results/roc_curve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDN_AE_SVM/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SDN_AE_SVM/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Geuan666&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Geuan666/LSTMforDDoSDetect.git&quot;,
+    &quot;accountId&quot;: &quot;865bd8ae-6c00-4132-8d77-cc0a1777b8ac&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2x8oDr8ahldNKHf1FjxSoxsaqMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ddos_detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.feature_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sample2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/17380&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\17380" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ddos_detector">
+    <configuration name="ddos_detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTMforDetect" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ddos_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="feature_select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTMforDetect" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feature_select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTMforDetect" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTMforDetect" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LSTMforDetect" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ddos_detector" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.feature_select" />
+        <item itemvalue="Python.sample2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="11ac3434-e16f-480f-a8e4-f04b61e65270" name="更改" comment="" />
+      <created>1747328944896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747328944896</updated>
+      <workItem from="1747328945965" duration="1270000" />
+      <workItem from="1747361973001" duration="657000" />
+      <workItem from="1747366012697" duration="8877000" />
+      <workItem from="1747399933666" duration="4737000" />
+      <workItem from="1747442950304" duration="16183000" />
+      <workItem from="1747555588582" duration="2028000" />
+      <workItem from="1747575757780" duration="2915000" />
+      <workItem from="1747578902926" duration="8774000" />
+      <workItem from="1747621561925" duration="6040000" />
+      <workItem from="1747643180986" duration="2014000" />
+      <workItem from="1747654952795" duration="4285000" />
+      <workItem from="1747708023292" duration="3103000" />
+      <workItem from="1747730815532" duration="7180000" />
+      <workItem from="1747750318539" duration="4465000" />
+      <workItem from="1747789109120" duration="4342000" />
+      <workItem from="1747805787156" duration="8518000" />
+      <workItem from="1747819779991" duration="11735000" />
+      <workItem from="1747886200291" duration="33000" />
+      <workItem from="1747904123513" duration="1811000" />
+      <workItem from="1747906165178" duration="4584000" />
+      <workItem from="1747922704960" duration="3377000" />
+      <workItem from="1747979039714" duration="1419000" />
+      <workItem from="1748312296177" duration="45082000" />
+      <workItem from="1748484230109" duration="11271000" />
+      <workItem from="1748512087152" duration="310000" />
+      <workItem from="1748533683315" duration="1774000" />
+      <workItem from="1748536033402" duration="5820000" />
+      <workItem from="1748572142333" duration="2685000" />
+    </task>
+    <task id="LOCAL-00001" summary="3:42/5.16">
+      <option name="closed" value="true" />
+      <created>1747381344718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747381344718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4.11/5.16">
+      <option name="closed" value="true" />
+      <created>1747383202946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747383202946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8.43/5.17">
+      <option name="closed" value="true" />
+      <created>1747442596605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747442596605</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4.09/5.18">
+      <option name="closed" value="true" />
+      <created>1747556778132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747556778132</updated>
+    </task>
+    <task id="LOCAL-00005" summary="扁平化模型 采用简单的、双向的LSTM">
+      <option name="closed" value="true" />
+      <created>1747644362373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747644362373</updated>
+    </task>
+    <task id="LOCAL-00006" summary="扁平化模型 采用简单的、双向的LSTM">
+      <option name="closed" value="true" />
+      <created>1747732202252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747732202252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="扁平化模型 采用简单的、双向的LSTM">
+      <option name="closed" value="true" />
+      <created>1747806647237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747806647237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="扁平化模型 采用简单的、双向的LSTM">
+      <option name="closed" value="true" />
+      <created>1747814102420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747814102420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="含部署版本的代码">
+      <option name="closed" value="true" />
+      <created>1747831913551</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747831913551</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5.21终版">
+      <option name="closed" value="true" />
+      <created>1747833893202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747833893202</updated>
+    </task>
+    <task id="LOCAL-00011" summary="5.21终版">
+      <option name="closed" value="true" />
+      <created>1747835150853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747835150853</updated>
+    </task>
+    <task id="LOCAL-00012" summary="5.27版">
+      <option name="closed" value="true" />
+      <created>1748354845224</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748354845224</updated>
+    </task>
+    <task id="LOCAL-00013" summary="5.28版(二级级联存在问题)">
+      <option name="closed" value="true" />
+      <created>1748413030127</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748413030127</updated>
+    </task>
+    <task id="LOCAL-00014" summary="5.28版(没有One-hot编码)">
+      <option name="closed" value="true" />
+      <created>1748434528081</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748434528081</updated>
+    </task>
+    <task id="LOCAL-00015" summary="5.28版(改为one-hot编码初版)">
+      <option name="closed" value="true" />
+      <created>1748437848259</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748437848259</updated>
+    </task>
+    <task id="LOCAL-00016" summary="5.28版(改为one-hot编码初版)">
+      <option name="closed" value="true" />
+      <created>1748438492313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748438492313</updated>
+    </task>
+    <task id="LOCAL-00017" summary="5.28版(改为one-hot编码初版)">
+      <option name="closed" value="true" />
+      <created>1748484294634</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748484294634</updated>
+    </task>
+    <task id="LOCAL-00018" summary="5.28版(one-hot编码版)">
+      <option name="closed" value="true" />
+      <created>1748502059097</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748502059097</updated>
+    </task>
+    <task id="LOCAL-00019" summary="5.28版(终版的初版)">
+      <option name="closed" value="true" />
+      <created>1748504960890</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748504960891</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3:42/5.16" />
+    <MESSAGE value="4.11/5.16" />
+    <MESSAGE value="8.43/5.17" />
+    <MESSAGE value="4.09/5.18" />
+    <MESSAGE value="扁平化模型 采用简单的、双向的LSTM" />
+    <MESSAGE value="含部署版本的代码" />
+    <MESSAGE value="5.21终版" />
+    <MESSAGE value="5.27版" />
+    <MESSAGE value="5.28版(二级级联存在问题)" />
+    <MESSAGE value="5.28版(没有One-hot编码)" />
+    <MESSAGE value="5.28版(改为one-hot编码初版)" />
+    <MESSAGE value="5.28版(one-hot编码版)" />
+    <MESSAGE value="5.28版(终版的初版)" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.28版(终版的初版)" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LSTMforDetect$sample2.coverage" NAME="sample2 覆盖结果" MODIFIED="1748397099725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTMforDetect$feature_select.coverage" NAME="feature_select 覆盖结果" MODIFIED="1748501965265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTMforDetect$data.coverage" NAME="data 覆盖结果" MODIFIED="1748314857440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTMforDetect$ddos_detector.coverage" NAME="ddos_detector 覆盖结果" MODIFIED="1748574803304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTMforDetect$predict.coverage" NAME="predict 覆盖结果" MODIFIED="1748536479413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LSTMforDetect$main.coverage" NAME="main 覆盖结果" MODIFIED="1748572295457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
